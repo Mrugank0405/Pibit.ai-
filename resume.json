@@ -1,0 +1,89 @@
+{
+    "name": "Mrugank Arun Shirurkar",
+    "contact": {
+        "location": "Pune, India",
+        "phone": "+91 9423023981",
+        "email": "mrugankshirurkar16@gmail.com",
+        "linkedin": "LinkedIn",
+        "github": "GitHub"
+    },
+    "projects": [
+        {
+            "title": "Sarcasm Detection along with sentiment",
+            "period": "Jan 2024 – Jun 2024",
+            "description": "Developed a sarcasm detection system: Utilized machine learning techniques, including LSTM networks, to effectively identify sarcasm and sentiment in text data, leveraging Python with TensorFlow, Keras, and scikit-learn as well NLP for model development. Text preprocessing: Applied lemmatization to reduce words to their root form and tokenization to split text into meaningful units, enhancing semantic analysis with GloVe embeddings. Enhanced model accuracy: Analyzed punctuation marks and emojis to improve detection accuracy, ensuring the model effectively captured nuanced expressions of sarcasm. Data Source: News Headline Dataset. Accuracy Score: 93.32%"
+        },
+        {
+            "title": "E-waste Hub",
+            "period": "Aug 2023 – May 2024",
+            "description": "It is SIH problem statement. EwasteHub is platform for electronic waste management. Developed comprehensive e-waste management system: Features included data visualizations, instructional materials, a locating service for disposal sites, an e-commerce module, and user authentication. Implemented statistical data visualizations: Utilized Flask, Matplotlib, and Seaborn to display state-wise e-waste capacities, providing insightful analytics to users. Enhanced user interaction: Integrated a chatbot using FastBot to handle e-waste related queries in real-time and implemented a secure payment gateway using Stripe. Complete UI/UX case study"
+        },
+        {
+            "title": "RLC circuit solver",
+            "period": "Jan 2023 – Jun 2023",
+            "description": "Leveraged operator overloading to enhance the functionality of custom classes, enabling intuitive manipulation of data objects. Employed object-oriented programming principles to create modular and reusable code, facilitating efficient management of complex systems. Implemented virtual functions to enable polymorphic behavior, enhancing the flexibility and extensibility. Worked on basic graphics library for UI. (CPP)"
+        }
+    ],
+    "publications": [
+        {
+            "title": "IEEE International Conference 2024",
+            "date": "March 2024",
+            "description": "Paper published In 2024 IEEE International Conference for Women in Innovation, Technology and Entrepreneurship (ICWITE). Paper ID: ICWITE2024-657"
+        },
+        {
+            "title": "Turkish journal",
+            "date": "May 2024",
+            "description": "Paper is posted and accepted not published yet"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Vishwakarma Institute of Information Technology",
+            "location": "Pune, India",
+            "degree": "Bachelor of Technology, Information Technology",
+            "graduation_year": "Jun 2025",
+            "gpa": "8.75/10"
+        },
+        {
+            "institution": "Rajarshi Shahu Mahavidyalaya",
+            "location": "Latur, India",
+            "degree": "HSC",
+            "graduation_year": "Jun 2021",
+            "gpa": "91.17%"
+        },
+        {
+            "institution": "Yashwant Vidyalaya",
+            "location": "Ahmedpur, India",
+            "degree": "SSC",
+            "graduation_year": "Jun 2019",
+            "gpa": "94.60%"
+        }
+    ],
+    "skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "Power BI",
+        "UI/UX",
+        "Figma",
+        "SQL",
+        "CPP"
+    ],
+    "languages": [
+        "English",
+        "Marathi",
+        "Hindi"
+    ],
+    "certifications": [
+        "What is Data Science? IBM Coursera course",
+        "Design Impact Movement Hackathon (March 2024)",
+        "Microsoft Power BI Desktop for Business Intelligence"
+    ],
+    "hobbies": [
+        "Poetry",
+        "Script Writing",
+        "Photography",
+        "Gaming"
+    ]
+}
+
